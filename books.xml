@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="books.xsd">
+
+<book>
+<title>Web Technology</title>
+<author>Ravi Kumar</author>
+<isbn>101</isbn>
+<publisher>Oxford</publisher>
+<edition>2</edition>
+<price>500</price>
+</book>
+
+<book>
+<title>Database Management Systems</title>
+<author>Navathe</author>
+<isbn>102</isbn>
+<publisher>McGraw Hill</publisher>
+<edition>4</edition>
+<price>650</price>
+</book>
+
+<book>
+<title>Computer Networks</title>
+<author>Tanenbaum</author>
+<isbn>103</isbn>
+<publisher>Pearson</publisher>
+<edition>5</edition>
+<price>780</price>
+</book>
+
+</books>
